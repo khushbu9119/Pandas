@@ -1,6 +1,10 @@
-Name,Age,Monthly_salary
-khushbu,20,70000
-sneha,21,20000
-priya,22,30000
-snehal,23,40000
-priyanka,24,50000
+Name,Age,Monthly_salary,Team
+khushbu,20,70000,HR
+sneha,21,20000,IT
+priya,22,30000,Finance
+snehal,23,40000,Marketing
+priyanka,24,50000,Sales
+Rohit,25,60000,HR
+Rohit,25,60000,HR
+Mahi,26,70000,IT
+Anjali,25,60000,IT
