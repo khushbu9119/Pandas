@@ -1,8 +1,6 @@
-Name,Age,Monthly_salary,Team,DOJ
-khushbu,20,70000,HR,2020-01-15
-sneha,21,20000,IT,2021-09-26
-priya,22,30000,Finance,2022-11-03
-snehal,23,40000,Marketing,2023-01-04
-priyanka,24,50000,Sales,2024-05-05
-Mahi,26,70000,IT,2025-06-06
-Mohit,25,60000,HR,2026-01-07
+Name,Age,Monthly_salary
+khushbu,20,70000
+sneha,21,20000
+priya,22,30000
+snehal,23,40000
+priyanka,24,50000
